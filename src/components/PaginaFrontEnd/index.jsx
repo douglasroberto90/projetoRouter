@@ -1,4 +1,3 @@
-import "./PaginaFrontEnd.css"
 import BotaoVoltar from "../BotaoVoltar"
 
 export default function PaginaFrontEnd(){
